@@ -4,3 +4,4 @@ system.debug('bm ==>' + bm);
 bm.switchOn();
 system.debug('bm ==>' + bm.carColor);
 
+// sum of two integers
